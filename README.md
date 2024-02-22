@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/sars-cov-2.jpg
-coverY: 0
----
-
 # 🦠 Proyecto Pre-Admisiòn Covid-19
 
 En este proyecto se logro analizar y calcular el exceso de mortalidad causado por COVID-19 por cada 100,000 habitantes en los países latinoamericanos seleccionados: Chile, Colombia, México y Perú.&#x20;
