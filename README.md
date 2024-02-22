@@ -21,7 +21,7 @@ Además, se ha observado si el comportamiento del número de muertes fue consist
 
 En términos de herramientas y plataformas utilizadas, el proyecto se apoyó en Google Sheets para el manejo de datos y fórmulas, así como en Power Point para la creación de presentaciones. Para difundir los resultados y compartir el resultado obtenido, se empleó la plataforma de YouTube como medio de comunicación eficaz.
 
-Este proyecto es un valioso ejercicio de análisis de datos, destacando la importancia de utilizar herramientas como Google Sheets y Power Point para lograr una comprensión profunda y presentar de manera efectiva los hallazgos obtenidos a través de procesos de análisis.
+#### Este proyecto es un valioso ejercicio de análisis de datos, destacando la importancia de utilizar herramientas como Google Sheets y Power Point para lograr una comprensión y presentar de manera efectiva los hallazgos obtenidos a través de procesos de análisis.
 
 ## Dashboard
 
