@@ -1,4 +1,4 @@
-# 🦠 Proyecto Pre-Admisiòn Covid-19 :sneezing_face:
+# 🦠 Proyecto Pre-Admisiòn Covid-19
 
 En este proyecto se logro analizar y calcular el exceso de mortalidad causado por COVID-19 por cada 100,000 habitantes en los países latinoamericanos seleccionados: Chile, Colombia, México y Perú.&#x20;
 
@@ -12,13 +12,13 @@ Esto ha posibilitado comparar estos datos con los cálculos de exceso de muertes
 
 Además, se ha observado si el comportamiento del número de muertes fue consistente en todos los países estudiados.
 
-# :desktop_computer: Herramientas - Lenguajes - Plataformas
+## Herramientas - Lenguajes - Plataformas
 
 En términos de herramientas y plataformas utilizadas, el proyecto se apoyó en Google Sheets para el manejo de datos y fórmulas, así como en Power Point para la creación de presentaciones. Para difundir los resultados y compartir el resultado obtenido, se empleó la plataforma de YouTube como medio de comunicación eficaz.
 
 #### Este proyecto es un valioso ejercicio de análisis de datos, destacando la importancia de utilizar herramientas como Google Sheets y Power Point para lograr una comprensión y presentar de manera efectiva los hallazgos obtenidos a través de procesos de análisis.
 
-# :woman_technologist: Dashboard
+## Dashboard
 
 
 
